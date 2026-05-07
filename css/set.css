@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.setting {
+    width: 200px;
+    height: 100px;
+}
+
+.setting-buttons {
+    display: flex;
+    gap: 10px;
+    margin: 5px 0px;
+}
+
+.back-btn {
+    font-size: 30px;
+    text-decoration: none;
+    position: absolute;
+    transform: translate(500px, -30px);
+    background: none;
+    border: none;
+}
+
+main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 10px solid #5d1b1a;
+    width: 640px;
+    height: 440px;
+    padding: 50px;
+}
+
+h1 {
+    text-align: center;
+    margin: 10px;
+    font-size: 50px;
+}

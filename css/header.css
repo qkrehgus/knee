@@ -1,0 +1,27 @@
+header {
+    background-color: #5b2b1d;
+    color: white;
+    justify-content: space-between;
+    display: flex;
+    height: 70px;
+    align-items: center;
+    padding: 20px;
+}
+
+#buttons {
+    display: flex;
+    gap: 5px;
+}
+
+#buttons a {
+    text-decoration: none;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    border: 3px solid black;
+}
+body {
+    font-family: 'Gungsuh', '궁서', cursive;
+    background-color: #ffe8bc;
+}
