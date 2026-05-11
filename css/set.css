@@ -25,16 +25,6 @@
     border: none;
 }
 
-main {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    border: 10px solid #5d1b1a;
-    width: 640px;
-    height: 440px;
-    padding: 50px;
-}
 
 h1 {
     text-align: center;

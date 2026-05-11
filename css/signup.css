@@ -4,11 +4,14 @@
     margin: 0;
 }
 
-section {
+.signup-ui {
     text-align: center;
     margin: 40px;
-    padding: 10px 40px;
+
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+
 }
 
 h1{
@@ -34,14 +37,4 @@ h1{
     transform: translate(550px, 20px);
     background: none;
     border: none;
-}
-
-main {
-    border: 10px solid #5b2b1d;
-    width: 640px;
-    height: 600px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 }

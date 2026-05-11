@@ -5,13 +5,12 @@
 }
 
 main {
-    text-align: center;
-    margin: 40px;
-    padding: 60px 40px;
-    border: 6px solid #5b2b1d;
-    border-radius: 25px
+    gap: 20px;
 }
 
+h1 {
+    
+}
 
 section{
     
