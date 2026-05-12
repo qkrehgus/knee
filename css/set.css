@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.setting {
+    width: 200px;
+    height: 100px;
+}
+
+.setting-buttons {
+    display: flex;
+    gap: 10px;
+    margin: 5px 0px;
+}
+
+.back-btn {
+    font-size: 30px;
+    text-decoration: none;
+    position: absolute;
+    background: none;
+    border: none;
+}
+
+
+h1 {
+    text-align: center;
+    margin: 10px;
+    font-size: 50px;
+}

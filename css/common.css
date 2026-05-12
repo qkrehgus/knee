@@ -1,0 +1,27 @@
+.see-ui {
+    width: 1280px;
+    height: 600px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 6px solid #5b2b1d;
+    border-radius: 25px;
+    margin: 40px;
+    font-family: inherit;
+}
+
+.back-btn {
+    position: absolute;
+    top: 10%;
+    font-size: 50px !important;
+    transform: translate(550px, -30px);
+}
+
+.back-btn:hover {
+    cursor: pointer;
+}

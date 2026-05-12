@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1{
+    color: inherit;
+    font-size: 50px;
+}
+
+h2{
+    color: inherit;
+    font-size: 20px;
+}
+
+.l-btn{
+    background-color:  inherit;
+    color: inherit;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 20px 10px;
+    border-radius: 10px;
+}
+
+.login-ui {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.back-btn {
+    font-size: 30px;
+    text-decoration: none;
+    position: absolute;
+    background: none;
+    border: none;
+}
