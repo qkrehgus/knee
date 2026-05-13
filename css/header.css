@@ -6,6 +6,7 @@ header {
     height: 70px;
     align-items: center;
     padding: 20px;
+    font-family: "Clarendon", "Rockwell", "Gmarket Sans", serif;
 }
 
 #buttons {
@@ -22,6 +23,5 @@ header {
     border: 3px solid black;
 }
 body {
-    font-family: 'Gungsuh', '궁서', cursive;
     background-color: #ffe8bc;
 }

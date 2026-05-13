@@ -17,16 +17,16 @@
     이름<br>
     <input type="text"><br><br>
 
-    생년월일<br>
-    <input type="date"><br><br>
-
     이메일<br>
-    <input type="text" style="width:120px;"> @
-    <select>
-      <option>naver.com</option>
-      <option>gmail.com</option>
-      <option>daum.net</option>
-    </select>
+    <div class="emain-box">
+      <input type="text" style="width:120px;"> @
+      <select>
+        <option selected disabled>선택하세요</option>
+        <option>naver.com</option>
+        <option>gmail.com</option>
+        <option>daum.net</option>
+      </select>
+    </div>
 
     <br><br>
     <a href="#/main" class="r-btn">회원가입하기</a>

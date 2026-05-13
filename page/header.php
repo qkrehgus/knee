@@ -8,4 +8,5 @@
         <a href="#/login">로그인</a>
         <a href="#/signup">회원가입</a>
     </div>
+<script src="/javascript/font.js"></script>
 </header>

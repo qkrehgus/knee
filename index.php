@@ -17,4 +17,6 @@
 <script src="/javascript/audio.js"></script>
 <script src="/javascript/back.js"></script>
 <script src="/javascript/router.js"></script>
+<script src="/javascript/font.js"></script>
+<script src="/javascript/background.js"></script>
 </html>

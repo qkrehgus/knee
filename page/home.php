@@ -5,7 +5,7 @@
     <h1>마</h1>
     <h1>오</h1>
 </div> 
-<img src="./assets/ChulsooAndYounghee.png" alt="ChulsooAndYounghee.png" width="400" height="300">
+<img src="./assets/ChulsooAndYounghee.png" alt="ChulsooAndYounghee.png" width="230">
 <section>
     <a href="#/login" class="l-btn">로그인</a>
     <a href="#/main" class="s-btn">게임 시작</a>

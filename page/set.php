@@ -13,10 +13,10 @@
 </div>
 <div class= "setting">
   <h2>폰트</h2>
-  <button>기본체</button>
-  <button>궁서체</button>
+  <button class="basic-btn">기본체</button>
+  <button class="slab-btn">슬랩 세리프 폰트</button>
 </div>
 <div class= "setting">
   <h2>다크모드</h2>
-  <button>test</button>
+  <button class="dark-btn">변경</button>
 </div>

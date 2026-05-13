@@ -3,7 +3,11 @@ const routes = {
     '/login': '/page/login.php',
     '/signup': '/page/signup.php',
     '/main': '/page/main.php',
-    '/set': '/page/set.php'
+    '/set': '/page/set.php',
+    '/notice': '/page/notice.php',
+    '/ranking': '/page/ranking.php',
+    '/dictionary': '/page/dictionary.php',
+    '/game': '/page/game.php'
 };
 
 const handleLocation = async () => {
